@@ -1,7 +1,9 @@
 
 # OpenClaudeCode - 还原后的 Claude Code 源码
 
-![Preview](preview.png)
+![OpenClaudeCode](open-claude-code.png)
+
+![交流群](group-chat.jpg)
 
 > 基于 `@anthropic-ai/claude-code` v2.1.88 源码分析
 > 本项目供学习研究使用
